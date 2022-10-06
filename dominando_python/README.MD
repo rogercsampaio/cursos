@@ -1,4 +1,4 @@
-##  Curso Dominando Python ## 👋
+##  Curso Dominando Python 👋
 
 ### Objetivo
 A programação é uma das habilidades mais requisitadas no mercado de trabalho para os profissonais de tecnologia de informação. Em outras palavras, "falar" o idioma dos computadores possibilita a construção de aplicativos para os mais variados negócios. Como linguagem de programação, Python é uma das mais demandadas principalmente para os profissionais na área de dados: analistas, cientistas e engenheiros de dados e correlatos. Fácil aprendizado, gratuita, uma grande comunidade mundial ativa, muitas bibliotecas úteis, portabilidade são algumas vantagens da linguagem Python. Segundo uma pesquisa da CodingNomads, de acordo com os dados coletados de listagens de empregos dos EUA e Europa, gigantescas empresas como, por exemplo, Microsoft, Uber, Netflix, Apple recorrem a ela em várias frentes, sendo uma peça fundamental na construção de modelos de aprendizado de máquina. 
